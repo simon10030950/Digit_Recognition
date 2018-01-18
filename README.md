@@ -17,7 +17,7 @@ im = cv2.imread("photo_1.jpg")
 ```
 ### Test images
 ```
-photo_1
-photo_2
-photo_3
+photo_1.jpg
+photo_2.jpg
+photo_3.jpg
 ```
