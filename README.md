@@ -1,5 +1,23 @@
 # Digit_Recognition
+The small project for personal interest, 2017 Fall, NCTUEE.
 
-1) Run generateClassifier.py to generate classifier
-2) Run performRecognition.py to predict digit
-3) Photo_1, Photo_2, Photo_3 are test images
+## Link
+This project uses [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+
+## Running the tests
+### Break down into end to end tests
+1. Perform training
+> Run generateClassifier.py
+2. Predict digits
+> Run performRecognition.py
+3. At line 11 in performRecognition.py
+> Test image
+```python
+im = cv2.imread("photo_1.jpg")
+```
+### Test images
+```
+Photo_1
+Photo_2
+Photo_3
+```
