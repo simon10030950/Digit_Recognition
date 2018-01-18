@@ -1,4 +1,4 @@
-# Digit_Recognition
+# Digit Recognition
 The small project for personal interest, 2017 Fall, NCTUEE.
 
 ## Link
